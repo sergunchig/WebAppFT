@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppFT", "WebAppFT\WebAppFT.csproj", "{AAB76A0F-BD67-4FDE-A78D-4DF06367711B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTestProject", "IntegrationTestProject\IntegrationTestProject.csproj", "{DFF97BC8-1A6D-4BB9-98E9-8CFE44FBBF58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB76A0F-BD67-4FDE-A78D-4DF06367711B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB76A0F-BD67-4FDE-A78D-4DF06367711B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB76A0F-BD67-4FDE-A78D-4DF06367711B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB76A0F-BD67-4FDE-A78D-4DF06367711B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF97BC8-1A6D-4BB9-98E9-8CFE44FBBF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF97BC8-1A6D-4BB9-98E9-8CFE44FBBF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF97BC8-1A6D-4BB9-98E9-8CFE44FBBF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF97BC8-1A6D-4BB9-98E9-8CFE44FBBF58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA4417C6-F725-4BA4-AAA4-D90333074917}
+	EndGlobalSection
+EndGlobal
